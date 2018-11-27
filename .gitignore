@@ -1,0 +1,12 @@
+/dist
+/build
+/pyhaystack.egg-info
+/pyhaystack/*.pyc
+*.pyc
+/.coverage
+/.travis.yml
+tests/haystackClient/*.py
+tests/haystackClient/HaystackClientTest.py
+/docs/build
+/.cache
+/pyhaystack/client/ops/vendor/niagara4
